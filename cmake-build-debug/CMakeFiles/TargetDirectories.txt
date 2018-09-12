@@ -1,0 +1,3 @@
+C:/Users/HumanAlone/CLionProjects/BSQ/cmake-build-debug/CMakeFiles/BSQ.dir
+C:/Users/HumanAlone/CLionProjects/BSQ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HumanAlone/CLionProjects/BSQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
